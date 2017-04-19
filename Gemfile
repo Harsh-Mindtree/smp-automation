@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'appium_capybara', '~> 1.2', '>= 1.2.1'
+gem 'appium_lib', '~> 8.0'
+gem 'cucumber'
+gem 'site_prism'
+gem 'selenium-webdriver'
+gem 'poltergeist'
+gem 'rspec-expectations'
+gem 'pry'
+gem 'capybara'
